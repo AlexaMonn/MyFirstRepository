@@ -1,3 +1,3 @@
 #First try using Python
 
-print("New [Python File")
+print("New Python File")
